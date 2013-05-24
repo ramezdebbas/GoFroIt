@@ -1,0 +1,18 @@
+Go-For-It:
+Description:
+Go-For-It is an app which can helps to user to split the main into some simple tasks and complete them one by one. Its an app by which you can complete your goals easily.
+
+Features:
+•	Add Tasks into the App.
+•	User Interaction & Support.
+•	Delete the task.
+•	Add Sub Task.
+•	Delete Sub Task.
+•	Task Progress Bar.
+•	Pin the Task on Start Screen.
+•	Add the data and Check or Uncheck.
+•	Task to do. 
+•	Fully Different User Interface Designed keeping in focus point of view of Niche (Target) Market.
+•	 Live Tiles(Locally & Remotely)
+•	Searching feature.
+•	Fully Unique Branding (Unique Logo Designing & Graphics Designing).
